@@ -1,3 +1,3 @@
-:- module(dummy, [dummy/0]).
+:- module(dummy, [dummy/1]).
 
 dummy(latest).
