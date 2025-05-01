@@ -1,3 +1,3 @@
-:- module(dummy, [dummy/1]).
+:- module(dummy, [tag/1]).
 
-dummy(tag).
+tag(exist).
