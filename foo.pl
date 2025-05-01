@@ -1,3 +1,3 @@
-:- module(dummy, [dummy/1]).
+:- module(dummy, [branch/1]).
 
-dummy(branch).
+branch(exist).
