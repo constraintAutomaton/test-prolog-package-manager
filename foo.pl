@@ -1,3 +1,3 @@
-:- module(dummy, [hash/1]).
+:- module(dummy, [main_code/1]).
 
-hash(exist).
+main_code(exist).
